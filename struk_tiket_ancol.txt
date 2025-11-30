@@ -1,0 +1,5 @@
+======= STRUK PEMBELIAN TIKET ANCOL =======
+Tiket Reguler (Weekend) : 2 x 100000 = 200000
+Paket Keluarga          : 1 x 320000 = 320000
+---------------------------------------------
+TOTAL BAYAR = 520000
