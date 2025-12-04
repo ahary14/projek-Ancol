@@ -1,6 +1,5 @@
 #include <stdio.h>
-// tess
-// Maksimal 50 pesanan
+
 int hariList[50];
 int bundlingList[50];
 int jumlahList[50];
